@@ -38,7 +38,7 @@
     <p>To set up the Bookshelf Apps locally, follow these steps:</p>
     <ol>
         <li><strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/yourusername/bookshelf-apps.git</code></pre></li>
+        <pre><code>git clone https://github.com/MufidValdes/bookshelf-apps.git</code></pre></li>
         <li><strong>Navigate to the project directory:</strong>
         <pre><code>cd bookshelf-apps</code></pre></li>
         <li><strong>Open the project in your favorite code editor.</strong></li>
